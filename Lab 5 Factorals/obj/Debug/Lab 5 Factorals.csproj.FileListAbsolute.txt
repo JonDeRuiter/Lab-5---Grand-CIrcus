@@ -1,0 +1,7 @@
+c:\users\gc student\Source\Repos\Lab 5 Factorals\Lab 5 Factorals\bin\Debug\Lab 5 Factorals.exe.config
+c:\users\gc student\Source\Repos\Lab 5 Factorals\Lab 5 Factorals\bin\Debug\Lab 5 Factorals.exe
+c:\users\gc student\Source\Repos\Lab 5 Factorals\Lab 5 Factorals\bin\Debug\Lab 5 Factorals.pdb
+c:\users\gc student\Source\Repos\Lab 5 Factorals\Lab 5 Factorals\obj\Debug\Lab 5 Factorals.csprojResolveAssemblyReference.cache
+c:\users\gc student\Source\Repos\Lab 5 Factorals\Lab 5 Factorals\obj\Debug\Lab 5 Factorals.csproj.CoreCompileInputs.cache
+c:\users\gc student\Source\Repos\Lab 5 Factorals\Lab 5 Factorals\obj\Debug\Lab 5 Factorals.exe
+c:\users\gc student\Source\Repos\Lab 5 Factorals\Lab 5 Factorals\obj\Debug\Lab 5 Factorals.pdb
